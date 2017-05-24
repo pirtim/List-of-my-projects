@@ -28,10 +28,10 @@ Titles are links.
 
 ### Jul 17, 2016 - [mascarade_table](https://github.com/pirtim/mascarade_table)
 *Technology:* **Python 2.7** with standard library
-#### Short description:
-Tournament platform for playing Mascarade (based on Mascarade board game by Bruno Faidutti).
+
+Tournament platform for playing Mascarade (based on Mascarade board game by [Bruno Faidutti](http://faidutti.com/blog/?cat=34)).
 The goal was to create a platform for competition between bots and humans.
-Project created after discussion within [Warsaw Less Wrong Community](https://www.facebook.com/groups/lwwarsaw).
+Project created after discussion within [LessWrong Warsaw Community](https://www.facebook.com/groups/lwwarsaw).
 
 #### What's interesting:
 * Pretty big project - 1000+ lines
@@ -44,5 +44,19 @@ Project created after discussion within [Warsaw Less Wrong Community](https://ww
 ### Oct 04, 2015 - [task_manage_zfb](https://github.com/pirtim/task_manage_zfb)
 *Technology:* **Python 2.7** and **[Fabric](http://www.fabfile.org/)**
 
+Old and naive try to make own task manager through ssh. It would be better idea to use [Fabric 2.x](http://www.fabfile.org/roadmap.html#invoke-fabric-2-x-and-patchwork) and [Invoke](http://www.pyinvoke.org/) library.
+
+#### What's interesting:
+* 1000+ lines of code
+* Unit testing through [unittest](https://docs.python.org/2/library/unittest.html) and [doctest](https://docs.python.org/2/library/doctest.html)
+* [pylint](https://www.pylint.org/) - [PEP 8](https://www.python.org/dev/peps/pep-0008/) compliance
+* [logging](https://docs.python.org/2/library/logging.html)
+
 ### from Jul 17, 2015 to Sep 12, 2016 - [complex_networks_sim](https://github.com/pirtim/complex_networks_sim)
-*Technology:* **Python 2.7** and **[igraph](http://igraph.org)**, [NumPy](http://www.numpy.org/), [matplotlib](https://matplotlib.org/), [SciPy](https://www.scipy.org/)
+*Technology:* **Python 2.7** and **[igraph](http://igraph.org)**, [NumPy](http://www.numpy.org/), [matplotlib](https://matplotlib.org/), [ipyparallel](https://ipyparallel.readthedocs.io), [SciPy](https://www.scipy.org/)
+
+Scripts for creation and analysis data for my bachelor degree thesis - *Agent-based models on complex networks*.
+
+#### What's interesting:
+* Remote execution on multicore computer.
+* Analysis of hundreds of data series with length over 10^8 data points.

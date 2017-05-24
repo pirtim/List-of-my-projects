@@ -55,7 +55,7 @@ Old and naive try to make own task manager through ssh. It would be better idea 
 ### from Jul 17, 2015 to Sep 12, 2016 - [complex_networks_sim](https://github.com/pirtim/complex_networks_sim)
 *Technology:* **Python 2.7** and **[igraph](http://igraph.org)**, [NumPy](http://www.numpy.org/), [matplotlib](https://matplotlib.org/), [ipyparallel](https://ipyparallel.readthedocs.io), [SciPy](https://www.scipy.org/)
 
-Scripts for creation and analysis data for my bachelor degree thesis - *Agent-based models on complex networks*.
+Scripts for creation and analysis data for my bachelor's degree thesis in physics - *Agent-based models on complex networks*.
 
 #### What's interesting:
 * Remote execution on multicore computer.

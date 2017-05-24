@@ -6,7 +6,7 @@ Titles are links.
 *Technology:* **Python 2.7** and [Calibre](https://calibre-ebook.com/)
 
 ### Feb 12, 2017 - [blog_pfp](https://github.com/pirtim/blog_pfp)
-*Technology:* Python with [Flask](http://flask.pocoo.org/docs/0.12/), JS (ECMAScript 6), HTML, CSS
+*Technology:* Python 3.5 with [Flask](http://flask.pocoo.org/docs/0.12/), [Fabric](http://www.fabfile.org/), JS (ECMAScript 6), SQL, HTML, CSS
 
 ### Feb 07, 2017 - [udacity-db-intro-tournament](https://github.com/pirtim/udacity-db-intro-tournament)
 *Technology:* **SQL**, Python
@@ -16,7 +16,6 @@ Titles are links.
 
 ### Feb 01, 2017 - [frontend-nanodegree-arcade-game](https://github.com/pirtim/frontend-nanodegree-arcade-game)
 *Technology:* **JS** (ECMAScript 6), HTML, CSS
-
 
 ### Nov 12, 2016 - [INITreg](https://github.com/pirtim/INITreg)
 *Technology:* **[LaTeX](https://www.latex-project.org/about/)** and **[Law](https://en.wikipedia.org/wiki/Law)**
@@ -36,6 +35,8 @@ Project created after discussion within [Warsaw Less Wrong Community](https://ww
 
 #### What's interesting:
 * Pretty big project - 1000+ lines
+* Unit tests
+* Integration tests
 #### Other implementations:
 * https://github.com/JRzymkowski/MasquaradeBots
 * https://github.com/kaftanowicz/MascaradeBotTournament

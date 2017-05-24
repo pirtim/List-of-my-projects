@@ -23,8 +23,12 @@ Titles are links.
 ### Oct 13, 2016 - [pref_collect_qt](https://github.com/pirtim/pref_collect_qt)
 *Technology:* **Python 3.5** and **[PyQt5](https://www.qt.io/developers/)**
 
+[pref_collect](https://github.com/pirtim/pref_collect) project with GUI.
+
 ### Oct 09, 2016 - [pref_collect](https://github.com/pirtim/pref_collect)
 *Technology:* **Python 3.5** with standard library
+
+Scoring system for human-friendly sorting items in order - [rationale](blog.pkowalczyk.pl/scoring) (here should be link to a blog post).
 
 ### Jul 17, 2016 - [mascarade_table](https://github.com/pirtim/mascarade_table)
 *Technology:* **Python 2.7** with standard library

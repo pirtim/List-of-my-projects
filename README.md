@@ -1,4 +1,4 @@
-# List of my projects
+# List of my projects - ON HOLD
 List of my public projects with some description in descending chronological order.
 Titles are links.
 
@@ -11,10 +11,10 @@ Pull request: [link](https://github.com/kfix/calibre_plugin_djvumaker/pull/1).
 Changes: [diff](https://github.com/kfix/calibre_plugin_djvumaker/pull/1/files).
 
 
-### Feb 12, 2017 - [blog_pfp](https://github.com/pirtim/blog_pfp) - IN PROGRESS
+### Feb 12, 2017 - [blog_pfp](https://github.com/pirtim/blog_pfp) - ON HOLD
 *Technology:* Python 3.5 with [Flask](http://flask.pocoo.org/docs/0.12/), [Fabric](http://www.fabfile.org/), JS (ECMAScript 6), SQL, HTML, CSS
 
-Personal blog project - in progress.
+Personal blog project - on hold.
 
 ### Feb 07, 2017 - [udacity-db-intro-tournament](https://github.com/pirtim/udacity-db-intro-tournament)
 *Technology:* **SQL**, Python
@@ -61,7 +61,7 @@ Project created after discussion within [LessWrong Warsaw Community](https://www
 
 
 #### What's interesting:
-* Pretty big project - 1000+ lines
+* Fairly big project - 1000+ lines
 * Unit tests
 * Integration tests
 #### Other implementations:
@@ -72,7 +72,7 @@ Project created after discussion within [LessWrong Warsaw Community](https://www
 ### Oct 04, 2015 - [task_manage_zfb](https://github.com/pirtim/task_manage_zfb) - WON'T FIX
 *Technology:* **Python 2.7** and **[Fabric](http://www.fabfile.org/)**
 
-Old and naive try to make own task manager through ssh. It would be better idea to use [Fabric 2.x](http://www.fabfile.org/roadmap.html#invoke-fabric-2-x-and-patchwork) and [Invoke](http://www.pyinvoke.org/) library.
+Old and naive attempt to make own task manager through ssh. It would be better idea to use [Fabric 2.x](http://www.fabfile.org/roadmap.html#invoke-fabric-2-x-and-patchwork) and [Invoke](http://www.pyinvoke.org/) library.
 
 #### What's interesting:
 * 1000+ lines of code
